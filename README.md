@@ -12,6 +12,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+In this project, I developed an interactive world map feature for a state government website, using GitLab for project management, SVG and Angular for interactivity, and the World Bank API for data integration. My goal was to create a dynamic, data-driven web application, focusing on the practical use of JavaScript and TypeScript, Angular frameworks, and APIs in a real-world development scenario.
 
 ### Built With
 
