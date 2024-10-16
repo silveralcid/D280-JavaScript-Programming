@@ -6,7 +6,7 @@
     Course D280 - Western Governer's University
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://silveralcid.github.io/WGU-D280-JavaScript-Programming/">View Demo</a>
 </div>
 
 
