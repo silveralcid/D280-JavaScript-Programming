@@ -16,6 +16,7 @@
 ### Built With
 
 * Angular
+* JavaScript
 * TypeScript
 
 
